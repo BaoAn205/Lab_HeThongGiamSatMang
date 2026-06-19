@@ -1,8 +1,8 @@
-## Network Monitoring & Alerting System
+# Network Monitoring & Alerting System
 
 This project demonstrates the deployment of a multi-platform network monitoring and alerting system in a simulated enterprise environment using GNS3.
 
-# Overview
+## Overview
 
 The system monitors critical network devices and services including:
 
@@ -20,7 +20,7 @@ Cacti
 
 The project focuses on real-time fault detection, incident classification, and automated alert delivery through multiple notification channels.
 
-# Key Features
+## Key Features
 SNMP-based infrastructure monitoring
 CPU, RAM, Traffic and Service Availability monitoring
 Multi-level incident severity classification
@@ -38,7 +38,7 @@ Device outage detection
 DNS service failure
 Critical infrastructure downtime
 
-# Technologies
+## Technologies
 GNS3
 FortiGate
 Zabbix
@@ -49,6 +49,6 @@ SNMP
 Discord Webhook
 Linux
 
-## Presentation
+# Presentation
 
 [Presentation of this Project](https://canva.link/j8lxcv249ye5me4)
